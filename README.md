@@ -10,5 +10,5 @@ When working with this data, I extracted the zip file to a folder called UCI HAR
 directory.
 The script will read selected files from the test and train subdirectories
 
-The codebook contains information about the variables of the tidy data set and transformations used to obtain the final tidy data set
+The codebook file "CodeBook.md" in this repo contains information about the variables of the tidy data set and transformations used to obtain the final tidy data set
 
